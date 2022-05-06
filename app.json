@@ -3,7 +3,7 @@
     "description": "catbots - Whatsapp Bot",
     "logo": "https://i.imgur.com/HBlOhMc.png",
     "keywords": ["whatsapp", "userbot", "Asena", "WhatsAsena", "bot", "api", "ai"],
-    "repository": "https://github.com/hehe011/catbots/edit/master/app.json",
+    "repository": "https://github.com/hehe011/catbots",
     "website":   "https://t.me/phaticusthiccy",
     "success_url": "https://t.me/AsenaSupport",
     "stack": "container",
