@@ -65,8 +65,8 @@ Click WA logo to Join Support Group 👇
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@itsmebasil/Catbot-3)
 
-[![Deploy](https://www.linkpicture.com/q/heroku.jpg)](https://heroku.com/deploy?template=https://github.com/hehe011/catbots)https://github.com/hehe011/catbots/edit/master/README.md)https://github.com/hehe011/catbots)https://github.com/itsmebasil0/catbots)
-     </div>
+[![Deploy](https://www.linkpicture.com/q/heroku.jpg)](https://heroku.com/deploy?template=https://github.com/hehe011/catbots)
+     </div
 <br>
 <br >
  
